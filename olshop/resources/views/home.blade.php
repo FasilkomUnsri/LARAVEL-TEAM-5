@@ -4,7 +4,7 @@
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-       <img src="images/banner.jpg" width="100%" height="100%">
+       <img src="{{asset('images/banner.jpg')}}" width="100%" height="100%">
         </div>
       </div>
     </div>
